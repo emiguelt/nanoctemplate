@@ -1,0 +1,8 @@
+*.swp
+.sass-cache
+*~
+*.log
+output
+tmp
+file_changes.yaml
+Gemfile.lock
